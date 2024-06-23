@@ -1,0 +1,609 @@
+#EXTM3U
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Like FM
+https://pub0201.101.ru:443/stream/air/aac/64/219
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Nostalgie Махачкала
+https://nostalgie.dagfm.ru/
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Комсомольская Правда
+https://kpradio.hostingradio.ru:8000/64
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",МАКС-FM
+https://maksfm.hostingradio.ru/maksfm320.mp3
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Маруся ФМ
+https://pub0201.101.ru:443/stream/pull/aac/64/301
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",МИР
+https://icecast-mirtv.cdnvideo.ru/radio_mir128
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",МУЗ радио
+https://online-3.gkvr.ru:8001/muztvradio_original_128.mp3
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Орфей
+https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радио ВЕРА
+https://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радио День
+https://air.radioday.fm/mp3
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радио Зенит
+https://pub0201.101.ru:443/stream/air/mp3/256/269
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радио ИСКАТЕЛЬ
+https://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радио Родных Дорог
+https://stream1.radiord.ru:8000/live96.aac
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радио Юнитон
+https://online.uniton.ru/uniton
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Радиола
+https://radiola.hostingradio.ru/radiola_eka_128.mp3
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Твоя Волна
+https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
+#EXTINF:-1 group-title="FM Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",ТНТ Music Radio
+https://tntradio.hostingradio.ru:8027/tntradio128.mp3
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Григорий Гладков
+https://pub0201.101.ru:443/stream/pro/aac/64/94
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Детские Песни из мультфильмов и кино СССР
+https://pub0201.101.ru:443/stream/pro/aac/64/408
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Детские Песни из современных мультфильмов и кино
+https://pub0201.101.ru:443/stream/pro/aac/64/409
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Детские Сказки
+https://pub0201.101.ru:443/stream/pro/aac/64/222
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Зарубежные Детские Песни
+https://pub0201.101.ru:443/stream/pro/aac/64/410
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Советские Детские Песни
+https://pub0201.101.ru:443/stream/pro/aac/64/412
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Детское Радио
+https://pub0201.101.ru:443/stream/air/aac/64/199
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Детские Песни
+https://pub0201.101.ru:443/stream/pro/aac/64/93
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Колыбельная
+https://pub0201.101.ru:443/stream/pro/aac/64/95
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка Детского
+https://pub0201.101.ru:443/stream/pro/aac/64/332
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",От 12 и старше
+https://pub0201.101.ru:443/stream/pro/aac/64/329
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Сказки Детского Радио
+https://pub0201.101.ru:443/stream/pro/aac/64/427
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка для танцев
+https://pub0201.101.ru:443/stream/pro/aac/64/331
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Хиты Детского радио
+https://pub0201.101.ru:443/stream/pro/aac/64/397
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка для малышей
+https://pub0201.101.ru:443/stream/pro/aac/64/327
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Киномульт
+https://pub0201.101.ru:443/stream/pro/aac/64/326
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка для сна
+https://pub0201.101.ru:443/stream/pro/aac/64/328
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Детское радио. ХРУМ
+https://pub0201.101.ru:443/stream/pro/aac/64/423
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",#МузКраш
+https://pub0201.101.ru:443/stream/pro/aac/64/424
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",#МузКраш (2)
+https://pub0201.101.ru:443/stream/pro/aac/64/425
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Кавер
+https://pub0201.101.ru:443/stream/pro/aac/64/396
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Песни на иностранном языке
+https://pub0201.101.ru:443/stream/pro/aac/64/401
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",От 12 и старше (2)
+https://pub0201.101.ru:443/stream/pro/aac/64/404
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Рок
+https://pub0201.101.ru:443/stream/pro/aac/64/330
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Мульт Хит
+https://pub0201.101.ru:443/stream/pro/aac/64/403
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Танцевальная музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/400
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Улётное лето
+https://pub0201.101.ru:443/stream/pro/aac/64/394
+#EXTINF:-1 group-title="Детское радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Хиты Детского радио (2)
+https://pub0201.101.ru:443/stream/pro/aac/64/402
+#EXTINF:-1 group-title="Comedy Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Comedy Radio
+https://pub0201.101.ru:443/stream/air/aac/64/202
+#EXTINF:-1 group-title="Comedy Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Comedy Club
+https://pub0201.101.ru:443/stream/pro/aac/64/446
+#EXTINF:-1 group-title="Comedy Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",StandUP
+https://pub0201.101.ru:443/stream/pro/aac/64/447
+#EXTINF:-1 group-title="Comedy Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Женский Стендап
+https://pub0201.101.ru:443/stream/pro/aac/64/448
+#EXTINF:-1 group-title="Comedy Радио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Comedy SPA
+https://pub0201.101.ru:443/stream/pro/aac/64/449
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM
+https://pub0201.101.ru:443/stream/air/aac/64/102
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM. Non-Stop
+https://pub0201.101.ru:443/stream/trust/mp3/128/22
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM. Анекдоты
+https://pub0201.101.ru:443/stream/trust/mp3/128/20
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM. Классика Жанра
+https://pub0201.101.ru:443/stream/pro/aac/64/21
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM. Стендапы
+https://pub0201.101.ru:443/stream/pro/aac/64/245
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM. Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/148
+#EXTINF:-1 group-title="Юмор FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Юмор FM. Танцуют все!
+https://pub0201.101.ru:443/stream/trust/mp3/128/17
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторадио
+https://pub0201.101.ru:443/stream/air/aac/64/100
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторадио. Музыка Авторадио
+https://clck.ru/334yjp
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторадио. Музыка Авторадио (блок.)
+https://pub0201.101.ru:443/stream/pro/aac/64/2
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторадио. Дискотека 80-х
+https://pub0201.101.ru:443/stream/pro/aac/64/1
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторадио. Дискотека 90-х
+https://pub0201.101.ru:443/stream/pro/aac/64/74
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторадио. Мурзилки Live
+https://pub0201.101.ru:443/stream/pro/aac/64/3
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Мурзилки Live: Пародии
+https://pub0201.101.ru:443/stream/pro/aac/64/302
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка Авторадио (блок.)
+https://pub0201.101.ru:443/stream/pro/aac/64/289
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка Авторадио
+https://clck.ru/334z7Z
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Дискотека 80-х
+https://pub0201.101.ru:443/stream/pro/aac/64/288
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Дискотека 90-х
+https://pub0201.101.ru:443/stream/pro/aac/64/290
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Italo Disco
+https://pub0201.101.ru:443/stream/pro/aac/64/291
+#EXTINF:-1 group-title="Авторадио" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Дискотека СССР
+https://pub0201.101.ru:443/stream/pro/aac/64/292
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Energy FM
+https://pub0201.101.ru:443/stream/air/aac/64/99
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Alternative
+https://pub0201.101.ru:443/stream/pro/aac/64/176
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Dance
+https://pub0201.101.ru:443/stream/pro/aac/64/443
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Power
+https://pub0201.101.ru:443/stream/pro/aac/64/444
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Hip-Hop
+https://pub0201.101.ru:443/stream/pro/aac/64/445
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Club Dance
+https://pub0201.101.ru:443/stream/trust/mp3/128/5
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ House
+https://pub0201.101.ru:443/stream/trust/mp3/128/10
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Progressive House
+https://pub0201.101.ru:443/stream/trust/mp3/128/13
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Slap House
+https://pub0201.101.ru:443/stream/pro/aac/64/416
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Drum &amp; Bass
+https://pub0201.101.ru:443/stream/pro/aac/64/6
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Tech House
+https://pub0201.101.ru:443/stream/trust/mp3/128/170
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Techno
+https://pub0201.101.ru:443/stream/trust/mp3/128/18
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Trance
+https://pub0201.101.ru:443/stream/trust/mp3/128/19
+#EXTINF:-1 group-title="Energy FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NRJ Tropical House
+https://pub0201.101.ru:443/stream/pro/aac/64/364
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM
+https://pub0201.101.ru:443/stream/air/aac/64/200
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Bossa Nova
+https://pub0201.101.ru:443/stream/pro/aac/64/372
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Chillout
+https://pub0201.101.ru:443/stream/trust/mp3/128/24
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Christmas
+https://pub0201.101.ru:443/stream/trust/mp3/128/258
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Gold
+https://pub0201.101.ru:443/stream/trust/mp3/128/266
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Instrumental
+https://pub0201.101.ru:443/stream/pro/aac/64/28
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Jazz
+https://pub0201.101.ru:443/stream/trust/mp3/128/264
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Latino
+https://pub0201.101.ru:443/stream/trust/mp3/128/265
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Life
+https://pub0201.101.ru:443/stream/trust/mp3/128/267
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Lo-Fi
+https://pub0201.101.ru:443/stream/pro/aac/64/358
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Nature
+https://pub0201.101.ru:443/stream/trust/mp3/128/263
+#EXTINF:-1 group-title="Relax FM" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Relax FM. Smooth Jazz
+https://pub0201.101.ru:443/stream/trust/mp3/128/31
+#EXTINF:-1 group-title="Радио Romantika" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Radio Romantika
+https://pub0201.101.ru:443/stream/air/aac/64/101
+#EXTINF:-1 group-title="Радио Romantika" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Romantika. Easy Listening
+https://pub0201.101.ru:443/stream/pro/aac/64/26
+#EXTINF:-1 group-title="Радио Romantika" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Romantika. Love Songs
+https://pub0201.101.ru:443/stream/pro/aac/64/29
+#EXTINF:-1 group-title="Радио Romantika" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Romantika. Piano Covers
+https://pub0201.101.ru:443/stream/pro/aac/64/375
+#EXTINF:-1 group-title="Радио Romantika" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Romantika. Акустика
+https://pub0201.101.ru:443/stream/pro/aac/64/164
+#EXTINF:-1 group-title="Радио Romantika" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Romantika. Прикосновение
+https://pub0201.101.ru:443/stream/trust/mp3/128/196
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ambient
+https://pub0201.101.ru:443/stream/pro/aac/64/23
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Deep House
+https://pub0201.101.ru:443/stream/trust/mp3/128/173
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",New Age
+https://pub0201.101.ru:443/stream/pro/aac/64/120
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Office Lounge
+https://pub0201.101.ru:443/stream/pro/aac/64/30
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Sex
+https://pub0201.101.ru:443/stream/pro/aac/64/27
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Soulful House
+https://pub0201.101.ru:443/stream/trust/mp3/128/184
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Звуки Природы
+https://pub0201.101.ru:443/stream/pro/aac/64/32
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Песни о любви
+https://pub0201.101.ru:443/stream/pro/aac/64/325
+#EXTINF:-1 group-title="Фоновая музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Тантра
+https://pub0201.101.ru:443/stream/pro/aac/64/241
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",90's Gold
+https://pub0201.101.ru:443/stream/pro/aac/64/75
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",90's Pop
+https://pub0201.101.ru:443/stream/pro/aac/64/130
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Cats &amp; Dogs
+https://pub0201.101.ru:443/stream/pro/aac/64/281
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Golden 70's
+https://pub0201.101.ru:443/stream/pro/aac/64/192
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Crocus City Hall
+https://pub0201.101.ru:443/stream/pro/aac/64/213
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Halloween
+https://pub0201.101.ru:443/stream/pro/aac/64/320
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Happy Hours
+https://pub0201.101.ru:443/stream/trust/mp3/128/273
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",K-Pop
+https://pub0201.101.ru:443/stream/pro/aac/64/323
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Live Hits
+https://pub0201.101.ru:443/stream/pro/aac/64/86
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Mainstream
+https://pub0201.101.ru:443/stream/pro/aac/64/87
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Radio 101 Classics
+https://pub0201.101.ru:443/stream/pro/aac/64/283
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Аниме Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/421
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",В тренде
+https://pub0201.101.ru:443/stream/pro/aac/64/390
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Голос
+https://pub0201.101.ru:443/stream/pro/aac/64/198
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Голос Дети
+https://pub0201.101.ru:443/stream/pro/aac/64/287
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Грэмми
+https://pub0201.101.ru:443/stream/pro/aac/64/431
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",День Всех Влюбленных
+https://pub0201.101.ru:443/stream/pro/aac/64/419
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",День знаний (1сентября)
+https://pub0201.101.ru:443/stream/pro/aac/64/309
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Евровидение
+https://pub0201.101.ru:443/stream/pro/aac/64/147
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка из сериалов
+https://pub0201.101.ru:443/stream/pro/aac/64/308
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка Летних Фестивалей
+https://pub0201.101.ru:443/stream/pro/aac/64/285
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Мюзиклы
+https://pub0201.101.ru:443/stream/pro/aac/64/92
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",На хайпе
+https://pub0201.101.ru:443/stream/pro/aac/64/286
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Новогодние Хиты
+https://pub0201.101.ru:443/stream/pro/aac/64/159
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",ОККО: Лучшие саундтреки
+https://pub0201.101.ru:443/stream/pro/aac/64/430
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Саундтреки
+https://pub0201.101.ru:443/stream/pro/aac/64/25
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Попса 101
+https://pub0201.101.ru:443/stream/pro/aac/64/155
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Россия Топ 50
+https://pub0201.101.ru:443/stream/pro/aac/64/34
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Фабрика Звезд
+https://pub0201.101.ru:443/stream/pro/aac/64/48
+#EXTINF:-1 group-title="Поп музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Хиты 2000-х
+https://pub0201.101.ru:443/stream/pro/aac/64/435
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",BritPop
+https://pub0201.101.ru:443/stream/pro/aac/64/206
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Gothic
+https://pub0201.101.ru:443/stream/pro/aac/64/405
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Indie
+https://pub0201.101.ru:443/stream/pro/aac/64/152
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Instrumental Rock
+https://pub0201.101.ru:443/stream/pro/aac/64/183
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Irish Rock
+https://pub0201.101.ru:443/stream/pro/aac/64/321
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",K-Rock
+https://pub0201.101.ru:443/stream/pro/aac/64/334
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Metal
+https://pub0201.101.ru:443/stream/pro/aac/64/211
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Modern Rock
+https://pub0201.101.ru:443/stream/pro/aac/64/16
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rock
+https://pub0201.101.ru:443/stream/pro/aac/64/69
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rock Guitar
+https://pub0201.101.ru:443/stream/pro/aac/64/70
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rock Hits
+https://pub0201.101.ru:443/stream/pro/aac/64/160
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rock Remakes
+https://pub0201.101.ru:443/stream/pro/aac/64/71
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rock'n'Roll
+https://pub0201.101.ru:443/stream/pro/aac/64/89
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Route 101
+https://pub0201.101.ru:443/stream/pro/aac/64/185
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Thrash
+https://pub0201.101.ru:443/stream/pro/aac/64/73
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка футбола
+https://pub0201.101.ru:443/stream/pro/aac/64/280
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Наш Метал
+https://pub0201.101.ru:443/stream/pro/aac/64/257
+#EXTINF:-1 group-title="Рок" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Русский Рок
+https://pub0201.101.ru:443/stream/pro/aac/64/42
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Big Room
+https://pub0201.101.ru:443/stream/trust/mp3/128/220
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Deep House Dance
+https://pub0201.101.ru:443/stream/pro/aac/64/406
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Disco
+https://pub0201.101.ru:443/stream/pro/aac/64/80
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Electro
+https://pub0201.101.ru:443/stream/trust/mp3/128/7
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Euro Hits
+https://pub0201.101.ru:443/stream/pro/aac/64/82
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Hot Traxx
+https://pub0201.101.ru:443/stream/pro/aac/64/9
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Italo Disco
+https://pub0201.101.ru:443/stream/pro/aac/64/161
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Latina
+https://pub0201.101.ru:443/stream/trust/mp3/128/63
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Moombahton &amp; Reggaeton
+https://pub0201.101.ru:443/stream/pro/aac/64/407
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Radio First
+https://pub0201.101.ru:443/stream/trust/mp3/128/242
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Zumba
+https://pub0201.101.ru:443/stream/trust/mp3/128/259
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Дискотека СССР
+https://pub0201.101.ru:443/stream/pro/aac/64/144
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Лето Non-Stop
+https://pub0201.101.ru:443/stream/trust/mp3/128/150
+#EXTINF:-1 group-title="Танцевальная" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Россия 90-х
+https://pub0201.101.ru:443/stream/pro/aac/64/33
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Русские Песни
+https://pub0201.101.ru:443/stream/pro/aac/64/41
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Авторская Песня
+https://pub0201.101.ru:443/stream/pro/aac/64/35
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Армейские песни
+https://pub0201.101.ru:443/stream/pro/aac/64/37
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",23 Февраля
+https://pub0201.101.ru:443/stream/pro/aac/64/333
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",День Победы
+https://pub0201.101.ru:443/stream/pro/aac/64/178
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Кабаре «Шансон»
+https://pub0201.101.ru:443/stream/pro/aac/64/49
+#EXTINF:-1 group-title="Русская музыка" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Шансон
+https://pub0201.101.ru:443/stream/pro/aac/64/50
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Breakbeat
+https://pub0201.101.ru:443/stream/pro/aac/64/4
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Chillstep
+https://pub0201.101.ru:443/stream/pro/aac/64/260
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Cyber Space
+https://pub0201.101.ru:443/stream/pro/aac/64/79
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",DubStep
+https://pub0201.101.ru:443/stream/pro/aac/64/136
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Electronic
+https://pub0201.101.ru:443/stream/pro/aac/64/132
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Liquid Funk
+https://pub0201.101.ru:443/stream/pro/aac/64/272
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Neurofunk
+https://pub0201.101.ru:443/stream/pro/aac/64/415
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rave
+https://pub0201.101.ru:443/stream/pro/aac/64/151
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Synthwave
+https://pub0201.101.ru:443/stream/pro/aac/64/350
+#EXTINF:-1 group-title="Электроника" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Trap
+https://pub0201.101.ru:443/stream/pro/aac/64/193
+#EXTINF:-1 group-title="Джаз-Блюз" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Blues
+https://pub0201.101.ru:443/stream/pro/aac/64/76
+#EXTINF:-1 group-title="Джаз-Блюз" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Funk &amp; Soul
+https://pub0201.101.ru:443/stream/pro/aac/64/84
+#EXTINF:-1 group-title="Джаз-Блюз" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Jazz
+https://pub0201.101.ru:443/stream/pro/aac/64/85
+#EXTINF:-1 group-title="Джаз-Блюз" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Swing
+https://pub0201.101.ru:443/stream/pro/aac/64/90
+#EXTINF:-1 group-title="Рэп" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Gangsta &amp; Hip-Hop
+https://pub0201.101.ru:443/stream/pro/aac/64/8
+#EXTINF:-1 group-title="Рэп" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Jazz Rap
+https://pub0201.101.ru:443/stream/pro/aac/64/278
+#EXTINF:-1 group-title="Рэп" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",R'n'B
+https://pub0201.101.ru:443/stream/pro/aac/64/15
+#EXTINF:-1 group-title="Рэп" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Русский Рэп
+https://pub0201.101.ru:443/stream/pro/aac/64/43
+#EXTINF:-1 group-title="Рэп" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Французский Рэп
+https://pub0201.101.ru:443/stream/pro/aac/64/240
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",L Music Club
+https://pub0201.101.ru:443/stream/pro/aac/64/417
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",New York
+https://pub0201.101.ru:443/stream/pro/aac/64/64
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",ВИА
+https://pub0201.101.ru:443/stream/pro/aac/64/36
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Польское Ретро Plus
+https://pub0201.101.ru:443/stream/pro/aac/64/165
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",СССР 30-50
+https://pub0201.101.ru:443/stream/pro/aac/64/46
+#EXTINF:-1 group-title="Ретро" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",СССР 50-70
+https://pub0201.101.ru:443/stream/pro/aac/64/47
+#EXTINF:-1 group-title="Классика" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",NeoClassical
+https://pub0201.101.ru:443/stream/pro/aac/64/275
+#EXTINF:-1 group-title="Классика" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Pop Classical Music
+https://pub0201.101.ru:443/stream/pro/aac/64/97
+#EXTINF:-1 group-title="Классика" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Классическая Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/98
+#EXTINF:-1 group-title="Классика" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Опера
+https://pub0201.101.ru:443/stream/pro/aac/64/96
+#EXTINF:-1 group-title="Классика" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Истории классиков
+https://pub0201.101.ru:443/stream/pro/aac/64/428
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Country
+https://pub0201.101.ru:443/stream/pro/aac/64/78
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",France
+https://pub0201.101.ru:443/stream/pro/aac/64/68
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Italy
+https://pub0201.101.ru:443/stream/pro/aac/64/65
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Reggae
+https://pub0201.101.ru:443/stream/pro/aac/64/88
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Армения
+https://pub0201.101.ru:443/stream/pro/aac/64/60
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Архив Варшавского Договора
+https://pub0201.101.ru:443/stream/trust/mp3/128/177
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Кавказ Hits
+https://pub0201.101.ru:443/stream/pro/aac/64/39
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Музыка Востока
+https://pub0201.101.ru:443/stream/pro/aac/64/67
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Немецкая Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/324
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Русское Регги
+https://pub0201.101.ru:443/stream/pro/aac/64/44
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Татарская Народная Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/262
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Татарская Поп-музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/246
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Украина
+https://pub0201.101.ru:443/stream/pro/aac/64/66
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Французский Шансон
+https://pub0201.101.ru:443/stream/pro/aac/64/146
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Цыганская Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/61
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Японская Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/62
+#EXTINF:-1 group-title="World Music" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Японская Традиционная Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/393
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Агрессивное
+https://pub0201.101.ru:443/stream/pro/aac/64/388
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Бодрое
+https://pub0201.101.ru:443/stream/pro/aac/64/387
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Веселое
+https://pub0201.101.ru:443/stream/pro/aac/64/389
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Весеннее
+https://pub0201.101.ru:443/stream/pro/aac/64/382
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Возвышенное
+https://pub0201.101.ru:443/stream/pro/aac/64/374
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Грустное
+https://pub0201.101.ru:443/stream/pro/aac/64/354
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Дождь на улице
+https://pub0201.101.ru:443/stream/pro/aac/64/377
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Красивое
+https://pub0201.101.ru:443/stream/pro/aac/64/356
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Летнее
+https://pub0201.101.ru:443/stream/pro/aac/64/381
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Медитативное
+https://pub0201.101.ru:443/stream/pro/aac/64/357
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Меланхоличное
+https://pub0201.101.ru:443/stream/pro/aac/64/376
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Мечтательное
+https://pub0201.101.ru:443/stream/pro/aac/64/352
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Мистическое
+https://pub0201.101.ru:443/stream/pro/aac/64/363
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Новогоднее
+https://pub0201.101.ru:443/stream/pro/aac/64/384
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ностальгическое
+https://pub0201.101.ru:443/stream/pro/aac/64/386
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Осеннее
+https://pub0201.101.ru:443/stream/pro/aac/64/385
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Позитивное
+https://pub0201.101.ru:443/stream/pro/aac/64/353
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Сонное
+https://pub0201.101.ru:443/stream/pro/aac/64/391
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Спокойное
+https://pub0201.101.ru:443/stream/pro/aac/64/362
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Счастливое
+https://pub0201.101.ru:443/stream/pro/aac/64/351
+#EXTINF:-1 group-title="По настроению" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Эпичное
+https://pub0201.101.ru:443/stream/pro/aac/64/355
+#EXTINF:-1 group-title="Этническая" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Духовная Музыка
+https://pub0201.101.ru:443/stream/pro/aac/64/38
+#EXTINF:-1 group-title="Этническая" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Русские Народные
+https://pub0201.101.ru:443/stream/pro/aac/64/40
+#EXTINF:-1 group-title="Этническая" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Этника
+https://pub0201.101.ru:443/stream/pro/aac/64/51
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",ABBA
+https://pub0201.101.ru:443/stream/pro/aac/64/104
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Adriano Celentano
+https://pub0201.101.ru:443/stream/pro/aac/64/277
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Boney M.
+https://pub0201.101.ru:443/stream/pro/aac/64/114
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Deep Purple
+https://pub0201.101.ru:443/stream/pro/aac/64/125
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Depeche Mode
+https://pub0201.101.ru:443/stream/pro/aac/64/105
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Elton John
+https://pub0201.101.ru:443/stream/pro/aac/64/142
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Elvis Presley
+https://pub0201.101.ru:443/stream/pro/aac/64/111
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Enigma
+https://pub0201.101.ru:443/stream/pro/aac/64/175
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ennio Morricone
+https://pub0201.101.ru:443/stream/pro/aac/64/395
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Linkin Park
+https://pub0201.101.ru:443/stream/pro/aac/64/149
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Madonna
+https://pub0201.101.ru:443/stream/pro/aac/64/128
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Metallica
+https://pub0201.101.ru:443/stream/pro/aac/64/123
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Michael Jackson
+https://pub0201.101.ru:443/stream/pro/aac/64/52
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Modern Talking
+https://pub0201.101.ru:443/stream/pro/aac/64/115
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Mylene Farmer
+https://pub0201.101.ru:443/stream/pro/aac/64/166
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Pink Floyd
+https://pub0201.101.ru:443/stream/pro/aac/64/53
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Prince
+https://pub0201.101.ru:443/stream/pro/aac/64/282
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Queen
+https://pub0201.101.ru:443/stream/pro/aac/64/54
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Robbie Williams
+https://pub0201.101.ru:443/stream/pro/aac/64/138
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Sandra
+https://pub0201.101.ru:443/stream/pro/aac/64/179
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Scorpions
+https://pub0201.101.ru:443/stream/pro/aac/64/113
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",The Beatles
+https://pub0201.101.ru:443/stream/trust/mp3/128/55
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",The Prodigy
+https://pub0201.101.ru:443/stream/pro/aac/64/306
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",The Rolling Stones
+https://pub0201.101.ru:443/stream/pro/aac/64/117
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",U2
+https://pub0201.101.ru:443/stream/pro/aac/64/109
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Агата Кристи
+https://pub0201.101.ru:443/stream/pro/aac/64/139
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Александр Розенбаум
+https://pub0201.101.ru:443/stream/pro/aac/64/153
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Алиса
+https://pub0201.101.ru:443/stream/pro/aac/64/137
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Алла Пугачёва
+https://pub0201.101.ru:443/stream/pro/aac/64/56
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ария
+https://pub0201.101.ru:443/stream/pro/aac/64/118
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",БГ &amp; Аквариум
+https://pub0201.101.ru:443/stream/pro/aac/64/57
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",БИ-2
+https://pub0201.101.ru:443/stream/pro/aac/64/135
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Виктор Цой и группа «КИНО»
+https://pub0201.101.ru:443/stream/pro/aac/64/103
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Высоцкий
+https://pub0201.101.ru:443/stream/pro/aac/64/58
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",ДДТ
+https://pub0201.101.ru:443/stream/pro/aac/64/112
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Елена Ваенга
+https://pub0201.101.ru:443/stream/pro/aac/64/171
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Каста
+https://pub0201.101.ru:443/stream/pro/aac/64/121
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Король и Шут
+https://pub0201.101.ru:443/stream/pro/aac/64/191
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ласковый Май
+https://pub0201.101.ru:443/stream/pro/aac/64/119
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Любэ
+https://pub0201.101.ru:443/stream/pro/aac/64/158
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Машина Времени
+https://pub0201.101.ru:443/stream/pro/aac/64/59
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Михаил Круг
+https://pub0201.101.ru:443/stream/pro/aac/64/110
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Муслим Магомаев
+https://pub0201.101.ru:443/stream/pro/aac/64/156
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Наутилус Помпилиус
+https://pub0201.101.ru:443/stream/pro/aac/64/126
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Парк Горького
+https://pub0201.101.ru:443/stream/pro/aac/64/182
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Пикник
+https://pub0201.101.ru:443/stream/pro/aac/64/157
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Руки Вверх!
+https://pub0201.101.ru:443/stream/pro/aac/64/163
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Сплин
+https://pub0201.101.ru:443/stream/pro/aac/64/129
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Стас Михайлов
+https://pub0201.101.ru:443/stream/pro/aac/64/154
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Филипп Киркоров
+https://pub0201.101.ru:443/stream/pro/aac/64/116
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Чайф
+https://pub0201.101.ru:443/stream/pro/aac/64/106
+#EXTINF:-1 group-title="Золотая Коллекция" tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Чиж &amp; Co
+https://pub0201.101.ru:443/stream/pro/aac/64/221

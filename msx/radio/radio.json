@@ -1,0 +1,14 @@
+{
+    "headline": "Радио",
+    "background": "http://msx.nnmtv.fun/msx/img/bg.png",
+    "menu": [ {
+            "icon": "radio",
+            "label": "Радио 101",
+            "data":"user:http://msx.benzac.de/services/m3u.php?background=http://msx.nnmtv.fun/msx/img/fon_radio.gif&type=audio&mode=extended&url=https://nnmtv.github.io/msx/radio/101.m3u"
+        },{
+            "icon": "radio",
+            "label": "Радио Рекорд",
+            "data":"user:http://msx.benzac.de/services/m3u.php?background=https://nnmtv.github.io/msx/img/fon_radio.gif&type=audio&mode=extended&url=https://nnmtv.github.io/msx/radio/rr.m3u"
+        }
+    ]
+}    

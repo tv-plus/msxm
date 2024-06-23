@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Radio Record
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rr.gif
+http://23.111.104.132:9010/rr_main
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Radio Record SPB
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rr.gif
+http://23.111.104.132:9010/rr_spb
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",10's Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/2010.gif
+http://23.111.104.132:9010/2010_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",2-step
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/2step.gif
+http://23.111.104.132:9010/2step_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",60's Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/cadillac.gif
+http://23.111.104.132:9010/cadillac_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",70's Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/1970.gif
+http://23.111.104.132:9010/1970_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",A State of Trance
+http://23.111.104.132:9010/asot_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Afro House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/afro.gif
+http://23.111.104.132:9010/afro_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ambient
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/neurofunk.gif
+http://23.111.104.132:9010/ambient_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Armin van Buuren
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/armin.gif
+http://23.111.104.132:9010/armin_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Bass House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/2010.gif
+http://23.111.104.132:9010/jackin_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Big Hits
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/gold.gif
+http://23.111.104.132:9010/bighits_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Black Rap
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/yo.gif
+http://23.111.104.132:9010/yo_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Breaks
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/brks.gif
+http://23.111.104.132:9010/brks_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Chill House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/chillhouse.gif
+http://23.111.104.132:9010/chillhouse_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Chill-Out
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/chil.gif
+http://23.111.104.132:9010/chil_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Christmas
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/christmas.gif
+http://23.111.104.132:9010/christmas_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Christmas Chill
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-christmaschill.gif
+http://23.111.104.132:9010/christmaschill_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Complextro
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/complextro.gif
+http://23.111.104.132:9010/complextro_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Dancecore
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/dc.gif
+http://23.111.104.132:9010/dc_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Darkside
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/darkside.gif
+http://23.111.104.132:9010/darkside_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",David Guetta
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/guetta.gif
+http://23.111.104.132:9010/guetta_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Deep
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/deep.gif
+http://23.111.104.132:9010/deep_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Disco/Funk
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/discofunk.gif
+http://23.111.104.132:9010/discofunk_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",D'n'B Classics
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/drumhits.gif
+http://23.111.104.132:9010/drumhits_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",DJ Gvozd
+http://23.111.104.132:9010/djgvozd_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",DJ Цвет­коff
+http://23.111.104.132:9010/tsvetkov_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Dream Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/dream.gif
+http://23.111.104.132:9010/dream_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Dream Pop
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/dreampop.gif
+http://23.111.104.132:9010/dreampop_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Dubstep
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/dub.gif
+http://23.111.104.132:9010/dub_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",EDM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/club.gif
+http://23.111.104.132:9010/club_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",EDM Classics
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/edmhits.gif
+http://23.111.104.132:9010/edmhits_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Electro
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/electro.gif
+http://23.111.104.132:9010/elect_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Eurodance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/eurodance.gif
+http://23.111.104.132:9010/eurodance_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Feel
+http://23.111.104.132:9010/feel_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Future Bass
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/fbass.gif
+http://23.111.104.132:9010/fbass_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Future House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/fut.gif
+http://23.111.104.132:9010/fut_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Future Rave
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/futurerave.gif
+http://23.111.104.132:9010/futurerave_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",GOA/PSY
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/goa.gif
+http://23.111.104.132:9010/goa_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Groove/Tribal
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/groovetribal.gif
+http://23.111.104.132:9010/groovetribal_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Hard Bass
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/hbass.gif
+http://23.111.104.132:9010/hbass_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Hardstyle
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/teo.gif
+http://23.111.104.132:9010/teo_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",House Classics
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/houseclss.gif
+http://23.111.104.132:9010/houseclss_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",House Hits
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/househits.gif
+http://23.111.104.132:9010/househits_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Hypnotic
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/hypno.gif
+http://23.111.104.132:9010/hypno_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Innocence
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/innocence.gif
+http://23.111.104.132:9010/ibiza_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Jungle
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/jungle.gif
+http://23.111.104.132:9010/jungle_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Lady Waks
+http://23.111.104.132:9010/ladywaks_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Latina Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/latina.gif
+http://23.111.104.132:9010/latina_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Liquid Funk
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/liquidfunk.gif
+http://23.111.104.132:9010/liquidfunk_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Live DJ-sets
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-livedjsets.gif
+http://23.111.104.132:9010/livedjsets_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Lo-Fi
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/lofi.gif
+http://23.111.104.132:9010/lofi_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Lo‑Fi House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/lofihouse.gif
+http://23.111.104.132:9010/lofihouse_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Martin Garrix
+http://23.111.104.132:9010/martingarrix_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Megamix
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/mix.gif
+http://23.111.104.132:9010/mix_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Midtempo
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/midtemp.gif
+http://23.111.104.132:9010/mt_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Minimal/Tech
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/mini.gif
+http://23.111.104.132:9010/mini_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Moombahton
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/mmbt.gif
+http://23.111.104.132:9010/mmbt_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Nejtrino & Baur
+http://23.111.104.132:9010/nejtrinobaur_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Neurofunk
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/neurofunk.gif
+http://23.111.104.132:9010/neurofunk_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Nu Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/nudance.gif
+http://23.111.104.132:9010/nudance_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Oliver Heldens
+http://23.111.104.132:9010/oliverheldens_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Organic
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/organic.gif
+http://23.111.104.132:9010/organic_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Party 24/7
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-party.gif
+http://23.111.104.132:9010/party_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Phonk
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-phonk.gif
+http://23.111.104.132:9010/phonk_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Pirate Station
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/ps.gif
+http://23.111.104.132:9010/ps_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Progressive
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/progr.gif
+http://23.111.104.132:9010/progr_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rap Classics
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rapclassics.gif
+http://23.111.104.132:9010/rapclassics_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rap Hits
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rap.gif
+http://23.111.104.132:9010/rap_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rave FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rave.gif
+http://23.111.104.132:9010/rave_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Record 80-х
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/1980.gif
+http://23.111.104.132:9010/1980_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Record Classix
+http://23.111.104.132:9010/classix_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Record Club Show
+http://23.111.104.132:9010/clubshow_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Record Gold
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/gold.gif
+http://23.111.104.132:9010/gold_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Reggae
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-reggae.gif
+http://23.111.104.132:9010/reggae_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Remix
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rmx.gif
+http://23.111.104.132:9010/rmx_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Rock
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rock.gif
+http://23.111.104.132:9010/rock_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Russian Gold
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/russiangold.gif
+http://23.111.104.132:9010/russiangold_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Russian Hits
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/russianhits.gif
+http://23.111.104.132:9010/russianhits_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Russian Mix
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rus.gif
+http://23.111.104.132:9010/rus_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Summer Dance
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/summerparty.gif
+http://23.111.104.132:9010/summerparty_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Summer Lounge
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-summerlounge.gif
+http://23.111.104.132:9010/summerlounge_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Synthwave
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/synth.gif
+http://23.111.104.132:9010/synth_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Tech House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/techouse.gif
+http://23.111.104.132:9010/techouse_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Techno
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/techno.gif
+http://23.111.104.132:9010/techno_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Technopop
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/technopop.gif
+http://23.111.104.132:9010/technopop_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Tecktonik
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/tecktonik.gif
+http://23.111.104.132:9010/tecktonik_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Tiesto
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/tiesto.gif
+http://23.111.104.132:9010/tiesto_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",TOP 100 EDM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-top100edm.gif
+http://23.111.104.132:9010/top100edm_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Trance Classics
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/trancehits.gif
+http://23.111.104.132:9010/trancehits_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Trancehouse
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/trancehouse.gif
+http://23.111.104.132:9010/trancehouse_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Trancemission
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/tm.gif
+http://23.111.104.132:9010/tm_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Trap
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/trap.gif
+http://23.111.104.132:9010/trap_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Tropical
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/trop.gif
+http://23.111.104.132:9010/trop_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",UK Garage
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-ukgarage.gif
+http://23.111.104.132:9010/ukgarage_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Ultra Music Festival
+http://23.111.104.132:9010/ultra_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Uplifting
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/uplift.gif
+http://23.111.104.132:9010/uplift_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",VIP House
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/vip.gif
+http://23.111.104.132:9010/vip_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Workout
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record-workout.gif
+http://23.111.104.132:9010/workout_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Веснушка FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/deti.gif
+http://23.111.104.132:9010/deti_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Гастарбайтер FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/gast.gif
+http://23.111.104.132:9010/gast_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Гоп FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/gop.gif
+http://23.111.104.132:9010/gop_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Колбасный цех
+#EXTALBUMARTURL:https://i.ibb.co/SDkMgf1/image.png
+http://23.111.104.132:9010/pump_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Маятник Фуко
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/mf.gif
+http://23.111.104.132:9010/mf_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Медляк FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/mdl.gif
+http://23.111.104.132:9010/mdl_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",На Хайпе
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/hype.gif
+http://23.111.104.132:9010/hype_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",На шашлыки!
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/nashashlyki.gif
+http://23.111.104.132:9010/nashashlyki_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Нафталин FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/naft.gif
+http://23.111.104.132:9010/naft_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Рекорд 00-х
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/record00.gif
+http://23.111.104.132:9010/2000_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Руки Вверх!
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/rv.gif
+http://23.111.104.132:9010/rv_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Русская Зима
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/ruszima.gif
+http://23.111.104.132:9010/ruszima_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Симфония FM
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/symph.gif
+http://23.111.104.132:9010/symph_320
+#EXTINF:-1 tvg-logo="http://msx.nnmtv.fun/msx/img/music.png",Супердискотека 90-х
+#EXTALBUMARTURL:https://radiorecord.fm/player2/butlogo/sd90.gif
+http://23.111.104.132:9010/sd90_320

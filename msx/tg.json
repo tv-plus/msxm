@@ -1,0 +1,32 @@
+{
+   "name": "Telegram чат",
+   "headline": "Telegram чат",
+   "logo": "http://msx.nnmtv.fun/msx/img/telegram.jpg",
+   "style": "flat-separator",
+   "transparent": 2,
+   "background": "",
+   "menu": [
+      {
+         "label": "Отсканируйте код",
+         "data": {
+            "pages": [
+               {
+                  "items": [
+                     {
+                        "type": "default",
+                        "layout": "0,0,6,6",
+                        "text": "Получить нужную информацию и задать свои вопросы вы можете в чате. Для перехода в telegram чат отсканируйте код или перейдите по адресу https://t.me/MSX_appstore Для вступления в чат нажмите кнопку что вы не бот."
+                     },
+                     {
+                        "type": "space",
+                        "layout": "6,0,6,6",
+                        "imageFiller": "fit",
+                        "image": "http://msx.nnmtv.fun/msx/img/qr-code.gif"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ]
+}  

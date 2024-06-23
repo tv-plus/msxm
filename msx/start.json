@@ -1,0 +1,10 @@
+{
+    "name": "MSX NoName Launcher",
+    "version": "0.0.1",
+    "parameter": "menu:request:interaction:menu@https://nnmtv.github.io/launcher/store.html",
+    "welcome": "content",
+    "note": "For this service, Media Station X 0.1.132 or higher is needed.",
+    "launcher": {
+        "type": "start"
+    }
+}
