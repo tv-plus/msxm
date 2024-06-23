@@ -1,0 +1,11 @@
+{
+    "headline": "Кинозал HD",
+    "background": "http://msx.nnmtv.fun/msx/img/bg.png",
+    "menu": [
+           {
+            "icon": "tv",
+            "label": "Кинозал HD",
+            "data":"user:http://msx.benzac.de/services/m3u.php?background=http://msx.nnmtv.fun/msx/img/bg.png&type=video&mode=extended&url=http://nnmtv.fun/fork/video/kinozal_hd.m3u"
+        }
+    ]
+}    

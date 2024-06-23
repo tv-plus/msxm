@@ -1,0 +1,10 @@
+{
+    "headline": "Концерты",
+    "background": "http://msx.nnmtv.fun/msx/img/bg.png",
+    "menu": [{
+            "icon": "music-video",
+            "label": "Дискотека-80",
+            "data":"user:http://msx.nnmtv.fun/video/disco80.json"
+        }
+    ]
+}    

@@ -1,0 +1,72 @@
+{
+    "type": "list",
+    "headline": "Авторадио - Дискотека 80-х",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,3",
+        "color": "black",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+            "title": "Дискотека 80-х (2002) Авторадио",
+            "playerLabel": "Дискотека 80-х (2002) Авторадио",
+            "image": "https://img.youtube.com/vi/X4XaUpSLA0A/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=X4XaUpSLA0A"
+        },
+        {
+            "title": "Дискотека 80-х (2006) Авторадио",
+            "playerLabel": "Дискотека 80-х (2006) Авторадио",
+            "image": "https://img.youtube.com/vi/ZgaIH5aAhB4/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=ZgaIH5aAhB4"
+        },
+        {
+            "title": "Дискотека 80-х (2008) Авторадио",
+            "playerLabel": "Дискотека 80-х (2008) Авторадио",
+            "image": "https://img.youtube.com/vi/uTzNT4tn1O0/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=uTzNT4tn1O0"
+        },
+        {
+            "title": "Дискотека 80-х (2009) Авторадио",
+            "playerLabel": "Дискотека 80-х (2009) Авторадио",
+            "image": "https://img.youtube.com/vi/viVP31rX8eY/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=viVP31rX8eY"
+        },
+        {
+            "title": "Дискотека 80-х (2012) Авторадио",
+            "playerLabel": "Дискотека 80-х (2012) Авторадио",
+            "image": "https://img.youtube.com/vi/PSdebtjbrEU/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PSdebtjbrEU"
+        },
+        {
+            "title": "Дискотека 80-х 2014 Авторадио",
+            "playerLabel": "Дискотека 80-х 2014",
+            "image": "https://img.youtube.com/vi/A178oHqfzF4/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=A178oHqfzF4"
+        },
+        {
+            "title": "Дискотека 80-х (2016) Авторадио",
+            "playerLabel": "Дискотека 80-х (2016) Авторадио",
+            "image": "https://img.youtube.com/vi/k7lo1VEmKuc/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=k7lo1VEmKuc"
+        },
+        {
+            "title": "Дискотека 80-х (2017) Авторадио",
+            "playerLabel": "Дискотека 80-х (2017) Авторадио",
+            "image": "https://img.youtube.com/vi/lza34HYZtTY/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=lza34HYZtTY"
+        },
+        {
+            "title": "Дискотека 80-х (2018) Авторадио",
+            "playerLabel": "Дискотека 80-х (2018) Авторадио",
+            "image": "https://img.youtube.com/vi/RfSGWt8_PXk/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=RfSGWt8_PXk"
+        },
+        {
+            "title": "Дискотека 80-х разных лет",
+            "playerLabel": "Дискотека 80-х разных лет",
+            "image": "https://img.youtube.com/vi/NZ1-C15eud0/hqdefault.jpg",
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=NZ1-C15eud0"
+        }
+    ]
+}
